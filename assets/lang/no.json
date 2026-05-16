@@ -1,0 +1,42 @@
+{
+  "app_title": "Trappeappen",
+
+  "projects_title": "Trappeprosjekter",
+  "projects_empty": "Ingen prosjekter ennå. Trykk + for å opprette ett.",
+  "projects_new_title": "Nytt prosjekt",
+  "projects_new_hint": "Prosjektnavn",
+  "projects_rename": "Gi nytt navn",
+  "projects_rename_hint": "Nytt navn",
+  "projects_delete_title": "Slett prosjekt?",
+  "projects_delete_confirm": "Slett \"{name}\"? Dette kan ikke angres.",
+  "cancel": "Avbryt",
+  "ok": "OK",
+  "tooltip_settings": "Innstillinger",
+  "tooltip_new_project": "Nytt prosjekt",
+
+  "setup_choose_type": "Velg trappetype",
+  "setup_subtitle": "Én trapp per prosjekt. Du kan endre innstillinger etter plassering.",
+  "setup_straight_desc": "Rett løp, to kontrollpunkter",
+  "setup_l_shaped_desc": "To løp med et hjørnerepoes",
+  "setup_u_shaped_desc": "To parallelle løp forbundet med repos",
+  "setup_skip": "Hopp over — åpne tom tegning",
+
+  "editor_drawing_chip": "Tegner: {type}",
+  "editor_tap_hint": "Trykk {n} punkt for å plassere {type}",
+  "editor_tap_hint_plural": "Trykk {n} punkter for å plassere {type}",
+  "tooltip_add_staircase": "Legg til trapp",
+
+  "settings_title": "Innstillinger",
+  "settings_language": "Språk",
+  "settings_language_subtitle": "Velg visningsspråk",
+  "settings_units": "Enheter",
+  "settings_units_subtitle": "Metrisk eller imperial — kommer snart",
+  "settings_developer": "Utvikler",
+  "settings_reset_db": "Tilbakestill database",
+  "settings_reset_db_title": "Tilbakestill database?",
+  "settings_reset_db_content": "Dette vil slette alle prosjekter og data. Appen vil lukkes og må startes på nytt.",
+  "settings_reset_db_confirm": "Slett og lukk",
+
+  "lang_english": "Engelsk",
+  "lang_norwegian": "Norsk"
+}

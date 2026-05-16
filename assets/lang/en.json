@@ -1,0 +1,42 @@
+{
+  "app_title": "The Stair App",
+
+  "projects_title": "Stair Projects",
+  "projects_empty": "No projects yet. Tap + to create one.",
+  "projects_new_title": "New Project",
+  "projects_new_hint": "Project name",
+  "projects_rename": "Rename",
+  "projects_rename_hint": "New name",
+  "projects_delete_title": "Delete project?",
+  "projects_delete_confirm": "Delete \"{name}\"? This cannot be undone.",
+  "cancel": "Cancel",
+  "ok": "OK",
+  "tooltip_settings": "Settings",
+  "tooltip_new_project": "New project",
+
+  "setup_choose_type": "Choose stair type",
+  "setup_subtitle": "One staircase per project. You can change settings after placing.",
+  "setup_straight_desc": "Single flight, two control points",
+  "setup_l_shaped_desc": "Two flights with a corner landing",
+  "setup_u_shaped_desc": "Two parallel flights connected by landings",
+  "setup_skip": "Skip — open empty canvas",
+
+  "editor_drawing_chip": "Drawing: {type}",
+  "editor_tap_hint": "Tap {n} point to place {type}",
+  "editor_tap_hint_plural": "Tap {n} points to place {type}",
+  "tooltip_add_staircase": "Add staircase",
+
+  "settings_title": "Settings",
+  "settings_language": "Language",
+  "settings_language_subtitle": "Choose the display language",
+  "settings_units": "Units",
+  "settings_units_subtitle": "Metric or Imperial — coming soon",
+  "settings_developer": "Developer",
+  "settings_reset_db": "Reset database",
+  "settings_reset_db_title": "Reset database?",
+  "settings_reset_db_content": "This will delete all projects and data. The app will close and must be restarted.",
+  "settings_reset_db_confirm": "Delete & close",
+
+  "lang_english": "English",
+  "lang_norwegian": "Norwegian"
+}
